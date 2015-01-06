@@ -11,6 +11,8 @@ with concepts but I can understand them with enough time and patience. I've had 
 CSS, and a bit of dabbling in php. I took the introductory web authoring class at OSU and I've had some 
 experience in high school through a Dream Weaver and HTML class. So far I'm enjoying implementing github in
 this assignment, this will definitely be a useful tool to use on my off time too. I've had some experience with
-javascript and c# through Unity. Collaborating with others on a gaming project with Git may just be a solution
+JavaScript and c# through Unity. Collaborating with others on a gaming project with Git may just be a solution
 to making progress over breaks in the school year. I look forward to broadening my skill set this upcoming 
 term.
+
+<h1> What a nifty feature! </h1>
